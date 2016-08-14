@@ -1,2 +1,2 @@
 # hello-world
-This is when I started learining
+This is when I started learning
